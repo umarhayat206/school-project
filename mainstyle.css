@@ -1,0 +1,80 @@
+.index_body
+{
+	 background-color:#343a40;
+	background-image: url("images/hav4.jpg");
+    background-repeat:no-repeat;
+    background-position:fixed;
+    background-size:cover;
+
+	 overflow-x: hidden;
+}
+.index_panel
+{
+	transform: translateY(100px);
+
+}
+.index_btn
+{
+	width:45%;
+}
+
+/*----------Navbar css-----------*/
+
+.navbar-default
+{
+	
+	padding:10px;
+	margin-top:5px; 
+}
+
+.btn-default
+{
+	height:35px;
+
+}
+.edit-btn
+{
+	margin-top:15px;
+	background-color: black; 
+}
+.panel .panel-success .panel-heading
+{
+	background-color:red;
+	color: black; 
+
+}
+ 
+
+
+
+
+/*  student registration form css     */
+
+
+ label
+  {
+  	color:#008281;
+  }
+
+#stu-reg-h1
+  {
+  	color:#008281;
+  }
+  #btn-user-stu
+  {
+  	width:50%;
+  	background-color: #008281;
+  }
+
+
+
+  .stu-view-h1
+  {
+     color:#008281;	
+  }
+.panel-primary
+{
+	background-color: red;
+}
+
+.
